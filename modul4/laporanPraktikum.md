@@ -40,7 +40,7 @@ func main() {
 }
 ```
 ##### Output 
-![Screenshot Output 1](https://github.com/novanrezaputra10-lab/109082500102_Novan-Reza-Putra/blob/main/modul4/output/soalA.png)
+![Screenshot Output 1](https://github.com/novanrezaputra10-lab/109082500102_Novan-Reza-Putra/blob/main/modul4/output/soal1.png)
 Saat program dijalankan, kita memasukin tiga data bertipe string secara berurutan yang disimpan divariabel 1,2,3 terus menukar nilainya dengan cara menyimpan nilai var 1 ke var sementara terus nilai var dua dipindahkan di var 1 nilai var 3 dipindahkan di var 2 terakhir nilai sementara dipindahkan divar 3 jadi geser nilai terus program akan menampilkan isi akhir dari variabel 1,2,3
 
 
@@ -117,5 +117,5 @@ func main() {
 
 ```
 ##### Output 
-![Screenshot Output 2](https://github.com/novanrezaputra10-lab/109082500102_Novan-Reza-Putra/blob/main/modul2/output/soalB.png)
+![Screenshot Output 2](https://github.com/novanrezaputra10-lab/109082500102_Novan-Reza-Putra/blob/main/modul4/output/soal2.png)
 Program untuk nentukan pemenang dari jumlah soal yang berhasil diselesaikan dan total waktu tercepat tiap peserta memasukkan nama lalu 8 waktu pengerjaan soal terus menghitung berapa soal yang selesai hanya yang waktunya <300 detik lalu menjumlahkan total waktu setelah di bandingkanpeserta lain pemenang adalah yang jumlah soalnya paling banyak kalau jumlah soal sama maka dipilih yang total waktunya paling kecil proses ini dilakukan berulang sampai input nama “Selesai” terus program menampilkan nama pemenang beserta jumlah soal yang diselesaikan dan total waktunya.
