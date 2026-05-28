@@ -1,5 +1,4 @@
 package main
-
 import "fmt"
 
 type arrInt [1000000]int
